@@ -1,2 +1,1 @@
-# Demo
-This is the example repo
+Author - Yash
